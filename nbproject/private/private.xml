@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_RightHand.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LeftLeg.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LeftUpLeg.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/br/ol/renderer3d/core/ViewCanvas.java</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LeftFoot.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/144_03.bvh</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_Hip.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_Spine.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/crystal.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_RightLeg.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/br/ol/renderer3d/shader/GouraudShaderWithTexture.java</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/br/ol/renderer3d/core/ViewFrustrumClipper.java</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LeftHand.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/br/ol/animation/character/Roll.java</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_RightForeArm.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_RightArm.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LegArticulation.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_ArmArticulation.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_RightUpLeg.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_Head.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/br/ol/renderer3d/core/Renderer.java</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LeftForeArm.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/main/Main.java</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_LeftArm.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_Neck.mtl</file>
+            <file>file:/media/leo/Novo%20volume/Leo/algoritmos/3D/CharacterAnimation/HierarchicArticulatedObjecs/Java3D_HierarchicArticulatedObjects_RollCharacterAnimationTest/src/res/Roll_RightFoot.mtl</file>
+        </group>
+    </open-files>
+</project-private>
